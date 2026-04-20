@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 .env
+python_projects/week_4/project_01/data/words_to_learn.csv
