@@ -3,4 +3,9 @@
 __pycache__/
 *.pyc
 .env
+python_projects/week_5/project_01/oauth.json
+python_projects/week_5/project_01/browser.json
+python_projects/week_5/project_01/playlist_cache.json
+python_projects/week_5/project_01/song_cache.json
+python_projects/week_5/project_02/.env
 python_projects/week_4/project_01/data/words_to_learn.csv

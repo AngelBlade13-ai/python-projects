@@ -1,0 +1,5 @@
+__pycache__/
+browser.json
+oauth.json
+playlist_cache.json
+song_cache.json
